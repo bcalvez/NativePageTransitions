@@ -32,5 +32,21 @@
       "name": "cordova",
       "version": ">=3.0.0"
     }
-  ]
+  ],
+  "cordova": {
+    "id": "com.telerik.plugins.nativepagetransitions",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcalvez/NativePageTransitions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bcalvez/NativePageTransitions/issues"
+  },
+  "homepage": "https://github.com/bcalvez/NativePageTransitions#readme"
 }
